@@ -1,0 +1,925 @@
+[
+    {
+        "source_cluster": "kfkcinsabom",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkcinsabom"
+    },
+    {
+        "source_cluster": "kfkcinsaore",
+        "source_topics": [
+            "changelog-outgress-identity-cins-CA"
+        ],
+        "target_cluster": "kfkcinsabom"
+    },
+    {
+        "source_cluster": "kfkcinsaore",
+        "source_topics": [
+            "notification_ingress_token_ca"
+        ],
+        "target_cluster": "kfkcinsabom"
+    },
+    {
+        "source_cluster": "kfkcinsaore",
+        "source_topics": [
+            "changelog-outgress-identity-cins-USB"
+        ],
+        "target_cluster": "kfkcinsabom"
+    },
+    {
+        "source_cluster": "kfkcinsaore",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsabom"
+    },
+    {
+        "source_cluster": "kfkcinsachm",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsabom"
+    },
+    {
+        "source_cluster": "kfkcinsafra",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsabom"
+    },
+    {
+        "source_cluster": "kfkcinsachm",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkcinsachm"
+    },
+    {
+        "source_cluster": "kfkcinsasin",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsachm"
+    },
+    {
+        "source_cluster": "kfkcinsasyd",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsachm"
+    },
+    {
+        "source_cluster": "kfkcinsadxb",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsachm"
+    },
+    {
+        "source_cluster": "kfkcinsabom",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsachm"
+    },
+    {
+        "source_cluster": "kfkcinsadxb",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkcinsadxb"
+    },
+    {
+        "source_cluster": "kfkcinsafra",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsadxb"
+    },
+    {
+        "source_cluster": "kfkcinsaore",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsadxb"
+    },
+    {
+        "source_cluster": "kfkcinsaore",
+        "source_topics": [
+            "notification_ingress_token_ca"
+        ],
+        "target_cluster": "kfkcinsadxb"
+    },
+    {
+        "source_cluster": "kfkcinsachm",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsadxb"
+    },
+    {
+        "source_cluster": "kfkcinsasin",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsadxb"
+    },
+    {
+        "source_cluster": "kfkcinsasyd",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsadxb"
+    },
+    {
+        "source_cluster": "kfkcinsafra",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkcinsafra"
+    },
+    {
+        "source_cluster": "kfkcinsasin",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsafra"
+    },
+    {
+        "source_cluster": "kfkcinsasyd",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsafra"
+    },
+    {
+        "source_cluster": "kfkcinsadxb",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsafra"
+    },
+    {
+        "source_cluster": "kfkcinsabom",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsafra"
+    },
+    {
+        "source_cluster": "kfkcinsanrt",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkcinsanrt"
+    },
+    {
+        "source_cluster": "kfkcinsadxb",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsanrt"
+    },
+    {
+        "source_cluster": "kfkcinsasin",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsanrt"
+    },
+    {
+        "source_cluster": "kfkcinsasyd",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsanrt"
+    },
+    {
+        "source_cluster": "kfkcinsabom",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsanrt"
+    },
+    {
+        "source_cluster": "kfkcinsaore",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkcinsaore"
+    },
+    {
+        "source_cluster": "kfkcinsasin",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsaore"
+    },
+    {
+        "source_cluster": "kfkcinsasyd",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsaore"
+    },
+    {
+        "source_cluster": "kfkcinsadxb",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsaore"
+    },
+    {
+        "source_cluster": "kfkcinsabom",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsaore"
+    },
+    {
+        "source_cluster": "kfkcinsapdx",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkcinsapdx"
+    },
+    {
+        "source_cluster": "kfkcinsadxb",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsapdx"
+    },
+    {
+        "source_cluster": "kfkcinsasin",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsapdx"
+    },
+    {
+        "source_cluster": "kfkcinsasyd",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsapdx"
+    },
+    {
+        "source_cluster": "kfkcinsabom",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsapdx"
+    },
+    {
+        "source_cluster": "kfkcinsasin",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkcinsasin"
+    },
+    {
+        "source_cluster": "kfkcinsasyd",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkcinsasyd"
+    },
+    {
+        "source_cluster": "kfkcinsaore",
+        "source_topics": [
+            "changelog-outgress-identity-cins-CA"
+        ],
+        "target_cluster": "kfkcinsasyd"
+    },
+    {
+        "source_cluster": "kfkcinsaore",
+        "source_topics": [
+            "notification_ingress_token_ca"
+        ],
+        "target_cluster": "kfkcinsasyd"
+    },
+    {
+        "source_cluster": "kfkcinsaore",
+        "source_topics": [
+            "changelog-outgress-identity-cins-USB"
+        ],
+        "target_cluster": "kfkcinsasyd"
+    },
+    {
+        "source_cluster": "kfkcinsaore",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsasyd"
+    },
+    {
+        "source_cluster": "kfkcinsachm",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsasyd"
+    },
+    {
+        "source_cluster": "kfkcinsafra",
+        "source_topics": [
+            "changelog-outgress-identity-cins",
+            "notification_ingress_token"
+        ],
+        "target_cluster": "kfkcinsasyd"
+    },
+    {
+        "source_cluster": "kfkdiagnosticsachm",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkdiagnosticsachm"
+    },
+    {
+        "source_cluster": "kfkdiagnosticsadxb",
+        "source_topics": [
+            "diagnostic_events",
+            "diagnostics_server_event",
+            "locus_call_session_summary"
+        ],
+        "target_cluster": "kfkdiagnosticsachm"
+    },
+    {
+        "source_cluster": "kfkdiagnosticsadxb",
+        "source_topics": [
+            "test",
+            "diagnostic_events",
+            "diagnostics_server_event",
+            "locus_call_session_summary",
+            "analyzer_tasks"
+        ],
+        "target_cluster": "kfkdiagnosticsadxb"
+    },
+    {
+        "source_cluster": "kfkdiagnosticsafra",
+        "source_topics": [
+            "diagnostic_events",
+            "diagnostics_server_event",
+            "locus_call_session_summary"
+        ],
+        "target_cluster": "kfkdiagnosticsadxb"
+    },
+    {
+        "source_cluster": "kfkdiagnosticsaore",
+        "source_topics": [
+            "diagnostic_events",
+            "diagnostics_server_event",
+            "locus_call_session_summary"
+        ],
+        "target_cluster": "kfkdiagnosticsadxb"
+    },
+    {
+        "source_cluster": "kfkdiagnosticsapdx",
+        "source_topics": [
+            "diagnostic_events",
+            "diagnostics_server_event",
+            "locus_call_session_summary"
+        ],
+        "target_cluster": "kfkdiagnosticsadxb"
+    },
+    {
+        "source_cluster": "kfkdiagnosticsapdx",
+        "source_topics": [
+            "meet_a_diagnostics_server_event",
+            "meet_a_diagnostic_events"
+        ],
+        "target_cluster": "kfkdiagnosticsadxb"
+    },
+    {
+        "source_cluster": "kfkdiagnosticsanrt",
+        "source_topics": [
+            "diagnostic_events",
+            "diagnostics_server_event",
+            "locus_call_session_summary"
+        ],
+        "target_cluster": "kfkdiagnosticsadxb"
+    },
+    {
+        "source_cluster": "kfkdiagnosticsafra",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkdiagnosticsafra"
+    },
+    {
+        "source_cluster": "kfkdiagnosticsadxb",
+        "source_topics": [
+            "diagnostics_server_event"
+        ],
+        "target_cluster": "kfkdiagnosticsafra"
+    },
+    {
+        "source_cluster": "kfkdiagnosticsaore",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkdiagnosticsaore"
+    },
+    {
+        "source_cluster": "kfkdiagnosticsadxb",
+        "source_topics": [
+            "locus_call_session_summary",
+            "diagnostics_server_event"
+        ],
+        "target_cluster": "kfkdiagnosticsaore"
+    },
+    {
+        "source_cluster": "kfkfedlibachm",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkfedlibachm"
+    },
+    {
+        "source_cluster": "kfkfedlibadxb",
+        "source_topics": [
+            "urn_TEAM_us-east-2_a_po",
+            "urn_TEAM_us-east-2_a_ro"
+        ],
+        "target_cluster": "kfkfedlibachm"
+    },
+    {
+        "source_cluster": "kfkfedlibfedrampfipsdummy",
+        "source_topics": [
+            "urn_TEAM_us-east-2_a_po",
+            "urn_TEAM_us-east-2_a_ro"
+        ],
+        "target_cluster": "kfkfedlibachm"
+    },
+    {
+        "source_cluster": "kfkfedlibadxb",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkfedlibadxb"
+    },
+    {
+        "source_cluster": "kfkfedlibafra",
+        "source_topics": [
+            "urn_TEAM_me-central-1_d_po",
+            "urn_TEAM_me-central-1_d_ro"
+        ],
+        "target_cluster": "kfkfedlibadxb"
+    },
+    {
+        "source_cluster": "kfkfedlibaore",
+        "source_topics": [
+            "urn_TEAM_me-central-1_d_po",
+            "urn_TEAM_me-central-1_d_ro"
+        ],
+        "target_cluster": "kfkfedlibadxb"
+    },
+    {
+        "source_cluster": "kfkfedlibapdx",
+        "source_topics": [
+            "urn_TEAM_me-central-1_d_po",
+            "urn_TEAM_me-central-1_d_ro"
+        ],
+        "target_cluster": "kfkfedlibadxb"
+    },
+    {
+        "source_cluster": "kfkfedlibanrt",
+        "source_topics": [
+            "urn_TEAM_me-central-1_d_po",
+            "urn_TEAM_me-central-1_d_ro"
+        ],
+        "target_cluster": "kfkfedlibadxb"
+    },
+    {
+        "source_cluster": "kfkfedlibachm",
+        "source_topics": [
+            "urn_TEAM_me-central-1_d_po",
+            "urn_TEAM_me-central-1_d_ro"
+        ],
+        "target_cluster": "kfkfedlibadxb"
+    },
+    {
+        "source_cluster": "kfkfedlibfedrampdummy",
+        "source_topics": [
+            "urn_TEAM_me-central-1_d_po",
+            "urn_TEAM_me-central-1_d_ro"
+        ],
+        "target_cluster": "kfkfedlibadxb"
+    },
+    {
+        "source_cluster": "kfkfedlibfedrampfipsdummy",
+        "source_topics": [
+            "urn_TEAM_me-central-1_d_po",
+            "urn_TEAM_me-central-1_d_ro"
+        ],
+        "target_cluster": "kfkfedlibadxb"
+    },
+    {
+        "source_cluster": "kfkfedlibafra",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkfedlibafra"
+    },
+    {
+        "source_cluster": "kfkfedlibadxb",
+        "source_topics": [
+            "urn_TEAM_eu-central-1_k_po",
+            "urn_TEAM_eu-central-1_k_ro"
+        ],
+        "target_cluster": "kfkfedlibafra"
+    },
+    {
+        "source_cluster": "kfkfedlibfedrampfipsdummy",
+        "source_topics": [
+            "urn_TEAM_eu-central-1_k_po",
+            "urn_TEAM_eu-central-1_k_ro"
+        ],
+        "target_cluster": "kfkfedlibafra"
+    },
+    {
+        "source_cluster": "kfkfedlibaore",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkfedlibaore"
+    },
+    {
+        "source_cluster": "kfkfedlibadxb",
+        "source_topics": [
+            "urn_TEAM_us-west-2_r_po",
+            "urn_TEAM_us-west-2_r_ro"
+        ],
+        "target_cluster": "kfkfedlibaore"
+    },
+    {
+        "source_cluster": "kfkfedlibfedrampfipsdummy",
+        "source_topics": [
+            "urn_TEAM_us-west-2_r_po",
+            "urn_TEAM_us-west-2_r_ro"
+        ],
+        "target_cluster": "kfkfedlibaore"
+    },
+    {
+        "source_cluster": "kfkmeetachm",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkmeetachm"
+    },
+    {
+        "source_cluster": "kfkmeetadxb",
+        "source_topics": [
+            "calliope_media_agent_events",
+            "fms_video_mesh_service_events",
+            "calliope_authorization_events",
+            "calliope_admin_state_events"
+        ],
+        "target_cluster": "kfkmeetachm"
+    },
+    {
+        "source_cluster": "kfkmeetadxb",
+        "source_topics": [
+            "test",
+            "fms_video_mesh_service_events",
+            "janus_event"
+        ],
+        "target_cluster": "kfkmeetadxb"
+    },
+    {
+        "source_cluster": "kfkmeetafra",
+        "source_topics": [
+            "calliope_media_agent_events",
+            "calliope_authorization_events",
+            "calliope_admin_state_events",
+            "fms_video_mesh_service_events"
+        ],
+        "target_cluster": "kfkmeetadxb"
+    },
+    {
+        "source_cluster": "kfkmeetaore",
+        "source_topics": [
+            "calliope_media_agent_events",
+            "calliope_authorization_events",
+            "calliope_admin_state_events",
+            "fms_video_mesh_service_events"
+        ],
+        "target_cluster": "kfkmeetadxb"
+    },
+    {
+        "source_cluster": "kfkmeetapdx",
+        "source_topics": [
+            "calliope_media_agent_events",
+            "calliope_authorization_events",
+            "calliope_admin_state_events",
+            "fms_video_mesh_service_events"
+        ],
+        "target_cluster": "kfkmeetadxb"
+    },
+    {
+        "source_cluster": "kfkmeetanrt",
+        "source_topics": [
+            "calliope_media_agent_events",
+            "calliope_authorization_events",
+            "calliope_admin_state_events",
+            "fms_video_mesh_service_events"
+        ],
+        "target_cluster": "kfkmeetadxb"
+    },
+    {
+        "source_cluster": "kfkmeetachm",
+        "source_topics": [
+            "calliope_media_agent_events",
+            "calliope_authorization_events",
+            "calliope_admin_state_events",
+            "fms_video_mesh_service_events"
+        ],
+        "target_cluster": "kfkmeetadxb"
+    },
+    {
+        "source_cluster": "kfkmeetapdx",
+        "source_topics": [
+            "meet_a_calliope_media_agent_events",
+            "meet_a_calliope_admin_state_events"
+        ],
+        "target_cluster": "kfkmeetadxb"
+    },
+    {
+        "source_cluster": "kfkmeetafra",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkmeetafra"
+    },
+    {
+        "source_cluster": "kfkmeetadxb",
+        "source_topics": [
+            "calliope_media_agent_events",
+            "fms_video_mesh_service_events",
+            "calliope_authorization_events",
+            "calliope_admin_state_events"
+        ],
+        "target_cluster": "kfkmeetafra"
+    },
+    {
+        "source_cluster": "kfkmeetanrt",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkmeetanrt"
+    },
+    {
+        "source_cluster": "kfkmeetadxb",
+        "source_topics": [
+            "calliope_media_agent_events",
+            "calliope_authorization_events",
+            "calliope_admin_state_events",
+            "fms_video_mesh_service_events"
+        ],
+        "target_cluster": "kfkmeetanrt"
+    },
+    {
+        "source_cluster": "kfkmeetaore",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkmeetaore"
+    },
+    {
+        "source_cluster": "kfkmeetadxb",
+        "source_topics": [
+            "calliope_media_agent_events",
+            "calliope_authorization_events",
+            "calliope_admin_state_events",
+            "fms_video_mesh_service_events"
+        ],
+        "target_cluster": "kfkmeetaore"
+    },
+    {
+        "source_cluster": "kfkmeetapdx",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkmeetapdx"
+    },
+    {
+        "source_cluster": "kfkmeetadxb",
+        "source_topics": [
+            "calliope_media_agent_events",
+            "calliope_authorization_events",
+            "calliope_admin_state_events",
+            "fms_video_mesh_service_events"
+        ],
+        "target_cluster": "kfkmeetapdx"
+    },
+    {
+        "source_cluster": "kfkmetricsadxb",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfkmetricsadxb"
+    },
+    {
+        "source_cluster": "kfkmetricsafra",
+        "source_topics": [
+            "business_metrics"
+        ],
+        "target_cluster": "kfkmetricsadxb"
+    },
+    {
+        "source_cluster": "kfkmetricsaore",
+        "source_topics": [
+            "business_metrics",
+            "aore_spark_hms_hdfs"
+        ],
+        "target_cluster": "kfkmetricsadxb"
+    },
+    {
+        "source_cluster": "kfkmetricsapdx",
+        "source_topics": [
+            "business_metrics"
+        ],
+        "target_cluster": "kfkmetricsadxb"
+    },
+    {
+        "source_cluster": "kfkmetricsanrt",
+        "source_topics": [
+            "business_metrics"
+        ],
+        "target_cluster": "kfkmetricsadxb"
+    },
+    {
+        "source_cluster": "kfkdiagnosticsadxb",
+        "source_topics": [
+            "business_metrics",
+            "aggr_diagnostic_events"
+        ],
+        "target_cluster": "kfkmetricsadxb"
+    },
+    {
+        "source_cluster": "kfksharedadxb",
+        "source_topics": [
+            "csdm_device_updated_events"
+        ],
+        "target_cluster": "kfkmetricsadxb"
+    },
+    {
+        "source_cluster": "kfkfedlibfedrampfipsdummy",
+        "source_topics": [
+            "urn_TEAM_us-gov-west-1_a1_po",
+            "urn_TEAM_us-gov-west-1_a1_ro"
+        ],
+        "target_cluster": "kfkfedlibachm"
+    },
+    {
+        "source_cluster": "kfkfedlibfedrampdummy",
+        "source_topics": [
+            "urn_TEAM_us-gov-west-1_a1_po",
+            "urn_TEAM_us-gov-west-1_a1_ro"
+        ],
+        "target_cluster": "kfkfedlibadxb"
+    },
+    {
+        "source_cluster": "kfkfedlibfedrampfipsdummy",
+        "source_topics": [
+            "urn_TEAM_us-gov-west-1_a1_po",
+            "urn_TEAM_us-gov-west-1_a1_ro"
+        ],
+        "target_cluster": "kfkfedlibafra"
+    },
+    {
+        "source_cluster": "kfkfedlibfedrampfipsdummy",
+        "source_topics": [
+            "urn_TEAM_us-gov-west-1_a1_po",
+            "urn_TEAM_us-gov-west-1_a1_ro"
+        ],
+        "target_cluster": "kfkfedlibaore"
+    },
+    {
+        "source_cluster": "kfksharedachm",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfksharedachm"
+    },
+    {
+        "source_cluster": "kfksharedadxb",
+        "source_topics": [
+            "bpb-wholesale-customer-notification",
+            "bpb-wholesale-provisioning-history-notification"
+        ],
+        "target_cluster": "kfksharedachm"
+    },
+    {
+        "source_cluster": "kfksharedadxb",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfksharedadxb"
+    },
+    {
+        "source_cluster": "kfksharedafra",
+        "source_topics": [
+            "sa-mse-cmr-remote",
+            "sa-sse-cmr-remote"
+        ],
+        "target_cluster": "kfksharedadxb"
+    },
+    {
+        "source_cluster": "kfksharedafra",
+        "source_topics": [
+            "license_notification_events",
+            "ims_ms_teams_tenant_events"
+        ],
+        "target_cluster": "kfksharedadxb"
+    },
+    {
+        "source_cluster": "kfksharedaore",
+        "source_topics": [
+            "license_notification_events",
+            "ims_ms_teams_tenant_events"
+        ],
+        "target_cluster": "kfksharedadxb"
+    },
+    {
+        "source_cluster": "kfksharedafra",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfksharedafra"
+    },
+    {
+        "source_cluster": "kfksharedadxb",
+        "source_topics": [
+            "bc_euprod_kafka_sa_uctg"
+        ],
+        "target_cluster": "kfksharedafra"
+    },
+    {
+        "source_cluster": "kfksharedadxb",
+        "source_topics": [
+            "sa-mse-cmr-remote",
+            "sa-sse-cmr-remote"
+        ],
+        "target_cluster": "kfksharedafra"
+    },
+    {
+        "source_cluster": "kfksharedadxb",
+        "source_topics": [
+            "ims_ms_teams_tenant_events"
+        ],
+        "target_cluster": "kfksharedafra"
+    },
+    {
+        "source_cluster": "kfksharedaore",
+        "source_topics": [
+            "test"
+        ],
+        "target_cluster": "kfksharedaore"
+    },
+    {
+        "source_cluster": "kfksharedadxb",
+        "source_topics": [
+            "ims_ms_teams_tenant_events"
+        ],
+        "target_cluster": "kfksharedaore"
+    },
+    {
+        "source_cluster": "kfkfedlib",
+        "source_topics": [
+            "changelog-outgress-identity-cins-CA"
+        ],
+        "target_cluster": "kafkatestsagar2"
+    }
+]
